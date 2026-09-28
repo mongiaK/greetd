@@ -1,0 +1,2 @@
+# greetd
+greetd for mongia
